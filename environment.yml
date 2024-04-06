@@ -1,0 +1,16 @@
+name: egm_serenee
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9,<=3.12
+  - pandas
+  - geopandas
+  - cartopy
+  - shapely
+  - folium
+  - rasterio
+  - rasterstats
+  - pyepsg
+  - jupyterlab
+  - matplotlib
