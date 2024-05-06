@@ -1,0 +1,17 @@
+name: egm722_serenee
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9,<=3.12
+  - pandas
+  - geopandas
+  - cartopy>=0.21
+  - shapely
+  - folium
+  - rasterio
+  - rasterstats
+  - pyepsg
+  - jupyterlab
+  - matplotlib
+  - ipywidgets

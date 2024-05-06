@@ -1,0 +1,357 @@
+,Tourist Sites,Near_T_Hub,Trans_Dist,Near_GP,GP_Dist,PostCode
+0,LISNAMALLARD (MILLBANK) HOUSE,Omagh Bus Station,0.66,Dr. QUINN & PARTNERS                ,3.14,BT49 0NA
+1,BELLARENA,Bellarena Rail Halt,1.54,Dr. QUINN & PARTNERS                ,7.38,BT49 0NA
+2,BALLYMOYER,Newry Rail Station,10.37,Dr. QUINN & PARTNERS                ,3.91,BT49 0NA
+3,CREEVENAGH,Omagh Bus Station,1.12,Dr. QUINN & PARTNERS                ,2.43,BT49 0NA
+4,EDENFEL,Omagh Bus Station,1.51,Dr. QUINN & PARTNERS                ,2.07,BT49 0NA
+5,ARDNARGLE,Limavady Bus Station,0.93,Dr. QUINN & PARTNERS                ,1.99,BT49 0NA
+6,WALWORTH,Limavady Bus Station,4.85,Dr. QUINN & PARTNERS                ,5.46,BT49 0NA
+7,MOORE LODGE,Ballymoney Rail Station,9.79,Dr. MCCORMACK & PARTNERS            ,3.29,BT7 2GG
+8,MOLENAN (MULLENAN),L'Derry Rail Station,6.37,Dr. MCEVOY & PARTNERS               ,5.67,BT48 0LZ
+9,GOVERNMENT HOUSE,L'Derry Rail Station,3.12,Dr. MCEVOY & PARTNERS               ,2.29,BT48 0LZ
+10,TYRELLA HOUSE,Newcastle Bus Station,8.34,Dr. GREER & PARTNERS                ,5.85,BT42 3JU
+11,MOUNT PANTHER,Newcastle Bus Station,7.28,Dr. GREER & PARTNERS                ,1.58,BT42 3JU
+12,SEAFORDE HOUSE,Downpatrick Bus Station,8.48,Dr. GREER & PARTNERS                ,3.35,BT42 3JU
+13,TYRELLA HOUSE,Newcastle Bus Station,8.34,Dr. GREER & PARTNERS                ,5.85,BT30 8RD
+14,MOUNT PANTHER,Newcastle Bus Station,7.28,Dr. GREER & PARTNERS                ,1.58,BT30 8RD
+15,SEAFORDE HOUSE,Downpatrick Bus Station,8.48,Dr. GREER & PARTNERS                ,3.35,BT30 8RD
+16,GLENDARRAGH,Crumlin Rail Halt,1.1,Dr. BYRNE & PARTNERS                ,1.59,BT67 0DD
+17,PORTMORE,Ballinderry Rail Halt,4.17,Dr. BYRNE & PARTNERS                ,3.5,BT67 0DD
+18,HAWTHORNE HILL,Newry Bus Station,8.17,Dr. VETTIANKAL                      ,1.59,BT35 8JT
+19,KNOCKTARNA HOUSE,Coleraine Bus & Rail,3.09,Dr. WALLACE & PARTNERS              ,2.54,BT52 1JX
+20,CHURCH HILL,Newcastle Bus Station,2.29,Dr. LEGGETT & PARTNERS              ,2.55,BT33 0AE
+21,GARDENVALE,Ballymoney Rail Station,10.47,Dr. STERNE & PARTNERS               ,3.58,BT53 8TY
+22,CORICK,Omagh Bus Station,21.7,Dr. POTTER & PARTNERS               ,9.8,BT70 2EY
+23,"SPUR ROYAL, AUGHER CASTLE",Omagh Bus Station,21.87,Dr. POTTER & PARTNERS               ,8.41,BT70 2EY
+24,KILLYBRICK HOUSE,Dungannon Bus Station,20.63,Dr. POTTER & PARTNERS               ,5.07,BT70 2EY
+25,MARTRAY HOUSE,Dungannon Bus Station,15.77,Dr. POTTER & PARTNERS               ,1.35,BT70 2EY
+26,LEARMOUNT,L'Derry Rail Station,19.75,Dr. KNOX & PARTNER                  ,5.93,BT47 4TD
+27,KNOCKAN AND ASH PARK,Limavady Bus Station,17.36,Dr. KNOX & PARTNER                  ,2.23,BT47 4TD
+28,MALONE HOUSE (BARNETT DEMESNE),Belfast - Balmoral Rail Halt,2.02,Dr. ROWNEY & PARTNERS               ,1.9,BT10 0BX
+29,ANTRIM CASTLE GARDENS,Antrim Bus Station,0.78,Dr. THOMPSON & PARTNERS             ,0.68,BT11 9FZ
+30,THE STEEPLE,Antrim Rail Station,0.72,Dr. THOMPSON & PARTNERS             ,0.69,BT11 9FZ
+31,"THE MANOR HOUSE, BENBURB",Armagh Bus Station,8.92,Dr. CAMPBELL & PARTNER              ,5.34,BT12 4HL
+32,ARDRESS,Portadown Rail Station,9.54,Dr. CAMPBELL & PARTNER              ,6.47,BT12 4HL
+33,THE ARGORY,Dungannon Bus Station,8.98,Dr. CAMPBELL & PARTNER              ,2.9,BT12 4HL
+34,SUMMER ISLAND,Armagh Bus Station,9.08,Dr. CAMPBELL & PARTNER              ,3.3,BT12 4HL
+35,DUNVILLE PARK,Belfast - Europa/Gvs,1.11,Dr. DONAGHY & PARTNERS              ,0.14,BT12 4LP
+36,BROOKFIELD HOUSE,Banbridge Bus Station,1.3,Dr. MCCLOSKEY & PARTNERS            ,0.85,BT12 5LT
+37,FALLS PARK,Belfast - Adelaide Rail Halt,1.92,Dr. COLGAN                          ,0.88,BT12 6DD
+38,DRUM MANOR (OAKLANDS),Cookstown Bus Station,5.43,Dr. JOHNSTON & PARTNERS             ,4.4,BT53 6HB
+39,LISSAN,Cookstown Bus Station,4.16,Dr. JOHNSTON & PARTNERS             ,3.7,BT53 6HB
+40,HILL MOUNT,Ballymena Bus Station,6.8,Dr. JOHNSTON & PARTNERS             ,1.74,BT53 6HB
+41,BENVARDEN,Ballymoney Rail Station,7.67,Dr. JOHNSTON & PARTNERS             ,6.96,BT53 6HB
+42,CRAIGDUN,Ballymena Bus Station,7.62,Dr. JOHNSTON & PARTNERS             ,2.66,BT53 6HB
+43,O HARABROOK,Ballymoney Rail Station,2.47,Dr. FANNIN & PARTNERS               ,3.2,BT53 6HH
+44,LESLIE HILL,Ballymoney Rail Station,1.79,Dr. FANNIN & PARTNERS               ,2.16,BT53 6HH
+45,MOORE FORT,Ballymoney Rail Station,4.28,Dr. FANNIN & PARTNERS               ,4.81,BT53 6HH
+46,LIZARD MANOR,Ballymoney Rail Station,7.31,Dr. FANNIN & PARTNERS               ,8.01,BT53 6HH
+47,CLANDEBOYE,Bangor West Rail Halt,2.84,Dr. HOWE & PARTNERS                 ,2.34,BT20 3EB
+48,BANGOR CASTLE,Bangor Bus & Rail,0.46,Dr. HAYES & PARTNERS                ,0.35,BT20 4LD
+49,CRAWFORDSBURN HOUSE,Helen'S Bay Rail Halt,0.9,Dr. HAYES & PARTNERS                ,3.61,BT20 4LD
+50,CASTLEWARD,Downpatrick Bus Station,10.14,Dr. DOYLE & PARTNERS                ,2.87,BT20 4LD
+51,PORTAFERRY HOUSE,Downpatrick Bus Station,13.16,Dr. DOYLE & PARTNERS                ,1.04,BT20 4LD
+52,BALLYWHITE HOUSE,Downpatrick Bus Station,13.28,Dr. DOYLE & PARTNERS                ,2.58,BT20 4LD
+53,QUINTIN CASTLE,Downpatrick Bus Station,15.99,Dr. DOYLE & PARTNERS                ,3.54,BT20 4LD
+54,GLENGANAGH,Bangor Bus & Rail,2.93,Dr. CRAIG & PARTNER                 ,0.73,BT20 5PE
+55,DONAGHADEE MANOR,Bangor Bus & Rail,9.06,Dr. HISCOCKS & PARTNERS             ,0.07,BT21 0BU
+56,CASTLEWARD,Downpatrick Bus Station,10.14,Dr. DOYLE & PARTNERS                ,2.87,BT22 1QT
+57,PORTAFERRY HOUSE,Downpatrick Bus Station,13.16,Dr. DOYLE & PARTNERS                ,1.04,BT22 1QT
+58,BALLYWHITE HOUSE,Downpatrick Bus Station,13.28,Dr. DOYLE & PARTNERS                ,2.58,BT22 1QT
+59,QUINTIN CASTLE,Downpatrick Bus Station,15.99,Dr. DOYLE & PARTNERS                ,3.54,BT22 1QT
+60,BELLEVUE (BELFAST ZOO),Whiteabbey Rail Halt,3.06,Dr. MEENAN & PARTNERS               ,1.61,BT37 9UH
+61,TYNAN ABBEY,Armagh Bus Station,12.1,Dr. CARLILE & PARTNERS              ,1.0,BT60 4QT
+62,CALEDON,Armagh Bus Station,12.82,Dr. CARLILE & PARTNERS              ,1.81,BT60 4QT
+63,FELLOWS HALL,Armagh Bus Station,8.72,Dr. CARLILE & PARTNERS              ,2.58,BT60 4QT
+64,DARTON HALL,Armagh Bus Station,8.57,Dr. CARLILE & PARTNERS              ,2.82,BT60 4QT
+65,THE PALACE (ARMAGH),Armagh Bus Station,1.45,Dr. MARSHALL & PARTNERS             ,0.82,BT61 7QG
+66,THE MALL (ARMAGH),Armagh Bus Station,0.33,Dr. MARSHALL & PARTNERS             ,0.44,BT61 7QG
+67,DEANS HILL,Armagh Bus Station,0.84,Dr. MARSHALL & PARTNERS             ,1.26,BT61 7QG
+68,THE OBSERVATORY (ARMAGH),Armagh Bus Station,0.36,Dr. MARSHALL & PARTNERS             ,0.88,BT61 7QG
+69,UMGOLA,Armagh Bus Station,1.59,Dr. MARSHALL & PARTNERS             ,1.21,BT61 7QG
+70,LOUGHGALL MANOR HOUSE,Armagh Bus Station,7.12,Dr. MURTAGH & PARTNERS,4.69,BT61 9PD
+71,CASTLE DILLON,Armagh Bus Station,3.78,Dr. MURTAGH & PARTNERS,3.54,BT61 9PD
+72,HOCKLEY LODGE,Armagh Bus Station,5.18,Dr. MURTAGH & PARTNERS,2.44,BT61 9PD
+73,TANDRAGEE CASTLE,Scarva Rail Halt,4.44,Dr. PICKERING & PARTNER             ,0.74,BT62 2AN
+74,EDEN VILLA,Portadown Rail Station,1.32,Dr. SHARPE & PARTNERS               ,1.08,BT62 3NJ
+75,LISGOOLE ABBEY,Enniskillen Bus Station,2.27,Dr. MAGUIRE & PARTNERS              ,2.93,BT13 1AD
+76,CASTLE COOLE,Enniskillen Bus Station,2.49,Dr. MAGUIRE & PARTNERS              ,2.51,BT13 1AD
+77,FORT HILL GARDENS,Enniskillen Bus Station,0.53,Dr. MAGUIRE & PARTNERS              ,0.5,BT13 1AD
+78,ELY LODGE,Enniskillen Bus Station,8.46,Dr. MAGUIRE & PARTNERS              ,8.14,BT13 1AD
+79,CASTLETOWN MANOR / MONEA,Enniskillen Bus Station,8.94,Dr. MAGUIRE & PARTNERS              ,8.83,BT13 1AD
+80,CLIFTON HOUSE,Belfast - Laganside Bus Station,0.89,Dr. MAGUIRE & PARTNERS              ,0.25,BT13 1AD
+81,BELLEVUE,Enniskillen Bus Station,3.35,Dr. MAGUIRE & PARTNERS              ,3.73,BT13 1AD
+82,CROCKNACREEVE,Enniskillen Bus Station,7.45,Dr. MAGUIRE & PARTNERS              ,6.75,BT13 1AD
+83,KILLYREAGH,Enniskillen Bus Station,4.18,Dr. MAGUIRE & PARTNERS              ,4.19,BT13 1AD
+84,WOODVALE PARK,Belfast - Europa/Gvs,2.35,Dr. HUTCHINSON & PARTNERS           ,0.22,BT13 3BW
+85,GLENCAIRN and FERNHILL,Belfast - Europa/Gvs,3.45,Dr. AGAHI & PARTNERS                ,0.93,BT14 7GB
+86,GLENBANK,Belfast - Yorkgate Rail Station,3.94,Dr. GILMORE & PARTNERS              ,0.13,BT14 8BY
+87,ALEXANDRA PARK,Belfast - Yorkgate Rail Station,1.01,Dr. BURNS & PARTNERS                ,0.51,BT15 2GE
+88,GLENDARRAGH,Crumlin Rail Halt,1.1,Dr. BYRNE & PARTNERS                ,1.59,BT29 4LA
+89,PORTMORE,Ballinderry Rail Halt,4.17,Dr. BYRNE & PARTNERS                ,3.5,BT29 4LA
+90,RAMS ISLAND,Glenavy Rail Halt,5.67,Dr. CHEUNG & PARTNERS               ,5.75,BT29 4LN
+91,FINNEBROGUE HOUSE,Downpatrick Bus Station,3.39,Dr. BOYLE & PARTNERS                ,3.26,BT30 6BE
+92,BALLYDUGAN HOUSE,Downpatrick Bus Station,2.24,Dr. CREANEY & PARTNER               ,2.62,BT30 6DE
+93,BALLEE HOUSE,Downpatrick Bus Station,5.79,Dr. MURPHY & PARTNERS               ,4.13,BT30 7SF
+94,RADEMON,Downpatrick Bus Station,8.89,Dr. TRAINOR & PARTNERS              ,1.78,BT30 9JU
+95,CROSSGAR HOUSE (Tobar Mhuire),Downpatrick Bus Station,7.98,Dr. TRAINOR & PARTNERS              ,0.34,BT30 9JU
+96,MYRA CASTLE,Downpatrick Bus Station,8.22,Dr. MCGILL & PARTNERS               ,3.72,BT30 9RG
+97,DELAMONT,Downpatrick Bus Station,6.89,Dr. MCGILL & PARTNERS               ,2.26,BT30 9RG
+98,BALLYTRIM,Downpatrick Bus Station,8.3,Dr. MCGILL & PARTNERS               ,2.02,BT30 9RG
+99,KILLYLEAGH CASTLE,Downpatrick Bus Station,9.39,Dr. MCGILL & PARTNERS               ,0.41,BT30 9RG
+100,RINGDUFFERIN,Downpatrick Bus Station,13.36,Dr. MCGILL & PARTNERS               ,4.27,BT30 9RG
+101,BALLYDRAIN (MALONE GOLF CLUB),Dunmurry Rail Halt,2.5,Dr. DICK & PARTNERS                 ,2.29,BT43 6HB
+102,WILMONT (SIR THOMAS AND LADY DIXON PARK),Dunmurry Rail Halt,1.77,Dr. DICK & PARTNERS                 ,1.55,BT43 6HB
+103,OAK HILL,Dunmurry Rail Halt,0.98,Dr. DICK & PARTNERS                 ,0.8,BT43 6HB
+104,BELVEDERE,Derriaghy Rail Halt,3.77,Dr. DICK & PARTNERS                 ,3.68,BT43 6HB
+105,SEYMOUR HILL,Dunmurry Rail Halt,0.85,Dr. DICK & PARTNERS                 ,0.55,BT43 6HB
+106,DRUMNASOLE HOUSE,Larne Rail Station,22.16,Dr. MCSPARRAN & PARTNERS            ,7.5,BT44 0TE
+107,GARRON TOWER,Larne Rail Station,23.37,Dr. MCSPARRAN & PARTNERS            ,6.85,BT44 0TE
+108,PORTGLENONE HOUSE,Ballymena Bus Station,12.05,Dr. BROWNE & PARTNERS               ,1.0,BT44 8AD
+109,LISSANOURE,Ballymoney Rail Station,11.33,Dr. MCCURDY & PARTNERS              ,6.63,BT44 9LF
+110,GREYABBEY HOUSE,Newtownards Bus Station,11.95,Dr. HUGHES & PARTNERS               ,4.47,BT22 2PY
+111,BALLYWALTER PARK,Newtownards Bus Station,14.72,Dr. HUGHES & PARTNERS               ,1.22,BT22 2PY
+112,MOUNT STEWART,Newtownards Bus Station,8.01,Dr. HUGHES & PARTNERS               ,7.29,BT22 2PY
+113,CARROWDORE CASTLE,Newtownards Bus Station,10.23,Dr. HUGHES & PARTNERS               ,5.44,BT22 2PY
+114,RUBANE,Comber Bus Station,17.48,Dr. FERRIS & PARTNERS               ,2.67,BT22 2SP
+115,TYRELLA HOUSE,Newcastle Bus Station,8.34,Dr. GREER & PARTNERS                ,5.85,BT23 4AS
+116,MOUNT PANTHER,Newcastle Bus Station,7.28,Dr. GREER & PARTNERS                ,1.58,BT23 4AS
+117,SEAFORDE HOUSE,Downpatrick Bus Station,8.48,Dr. GREER & PARTNERS                ,3.35,BT23 4AS
+118,ROWALLANE,Comber Bus Station,12.82,Dr. ROSS & PARTNERS                 ,1.68,BT24 7AD
+119,SAINTFIELD HOUSE,Comber Bus Station,10.66,Dr. ROSS & PARTNERS                 ,1.28,BT24 7AD
+120,LISNAMALLARD (MILLBANK) HOUSE,Omagh Bus Station,0.66,Dr. QUINN & PARTNERS                ,3.14,BT35 0BE
+121,BELLARENA,Bellarena Rail Halt,1.54,Dr. QUINN & PARTNERS                ,7.38,BT35 0BE
+122,BALLYMOYER,Newry Rail Station,10.37,Dr. QUINN & PARTNERS                ,3.91,BT35 0BE
+123,CREEVENAGH,Omagh Bus Station,1.12,Dr. QUINN & PARTNERS                ,2.43,BT35 0BE
+124,EDENFEL,Omagh Bus Station,1.51,Dr. QUINN & PARTNERS                ,2.07,BT35 0BE
+125,ARDNARGLE,Limavady Bus Station,0.93,Dr. QUINN & PARTNERS                ,1.99,BT35 0BE
+126,WALWORTH,Limavady Bus Station,4.85,Dr. QUINN & PARTNERS                ,5.46,BT35 0BE
+127,DERRYMORE HOUSE and THE WOODHOUSE,Newry Rail Station,1.47,Dr. MCKERNAN & PARTNER              ,1.45,BT35 7AW
+128,FORKILL (FORKHILL) HOUSE,Newry Bus Station,13.03,MAPHONER SURGERY,5.14,BT35 9RA
+129,MOYOLA PARK,Magherafelt Bus Station,4.57,Dr. HINDS & PARTNERS                ,0.82,BT45 8AZ
+130,BALLYSCULLION HOUSE,Magherafelt Bus Station,9.44,Dr. HINDS & PARTNERS                ,5.42,BT45 8AZ
+131,SHANES CASTLE,Antrim Bus Station,5.55,Dr. O'HANLON & PARTNERS             ,2.81,BT41 3AE
+132,DRUM MANOR (OAKLANDS),Cookstown Bus Station,5.43,Dr. JOHNSTON & PARTNERS             ,4.4,BT41 3TF
+133,LISSAN,Cookstown Bus Station,4.16,Dr. JOHNSTON & PARTNERS             ,3.7,BT41 3TF
+134,HILL MOUNT,Ballymena Bus Station,6.8,Dr. JOHNSTON & PARTNERS             ,1.74,BT41 3TF
+135,BENVARDEN,Ballymoney Rail Station,7.67,Dr. JOHNSTON & PARTNERS             ,6.96,BT41 3TF
+136,CRAIGDUN,Ballymena Bus Station,7.62,Dr. JOHNSTON & PARTNERS             ,2.66,BT41 3TF
+137,ANTRIM CASTLE GARDENS,Antrim Bus Station,0.78,Dr. THOMPSON & PARTNERS             ,0.68,BT41 4HR
+138,THE STEEPLE,Antrim Rail Station,0.72,Dr. THOMPSON & PARTNERS             ,0.69,BT41 4HR
+139,DRUM MANOR (OAKLANDS),Cookstown Bus Station,5.43,Dr. JOHNSTON & PARTNERS             ,4.4,BT42 1GP
+140,LISSAN,Cookstown Bus Station,4.16,Dr. JOHNSTON & PARTNERS             ,3.7,BT42 1GP
+141,HILL MOUNT,Ballymena Bus Station,6.8,Dr. JOHNSTON & PARTNERS             ,1.74,BT42 1GP
+142,BENVARDEN,Ballymoney Rail Station,7.67,Dr. JOHNSTON & PARTNERS             ,6.96,BT42 1GP
+143,CRAIGDUN,Ballymena Bus Station,7.62,Dr. JOHNSTON & PARTNERS             ,2.66,BT42 1GP
+144,GLEBE HOUSE (AHOGHILL),Ballymena Bus Station,6.17,Dr. BUTLER & PARTNERS               ,1.9,BT42 2PB
+145,CLEGGAN LODGE,Ballymena Rail Station,13.9,Dr. REDMOND & PARTNERS              ,7.78,BT42 4JA
+146,RANDOM COTTAGE,Ballymena Rail Station,3.63,Dr. RUSSELL & PARTNERS              ,3.29,BT43 5BA
+147,PEOPLES PARK BALLYMENA,Ballymena Rail Station,0.95,Dr. VERCOE-ROGERS & PARTNERS        ,0.49,BT43 5BY
+148,BALLYDRAIN (MALONE GOLF CLUB),Dunmurry Rail Halt,2.5,Dr. DICK & PARTNERS                 ,2.29,BT17 9AL
+149,WILMONT (SIR THOMAS AND LADY DIXON PARK),Dunmurry Rail Halt,1.77,Dr. DICK & PARTNERS                 ,1.55,BT17 9AL
+150,OAK HILL,Dunmurry Rail Halt,0.98,Dr. DICK & PARTNERS                 ,0.8,BT17 9AL
+151,BELVEDERE,Derriaghy Rail Halt,3.77,Dr. DICK & PARTNERS                 ,3.68,BT17 9AL
+152,SEYMOUR HILL,Dunmurry Rail Halt,0.85,Dr. DICK & PARTNERS                 ,0.55,BT17 9AL
+153,CULTRA MANOR,Cultra Rail Halt,0.83,Dr. GOLDRING & PARTNERS             ,2.54,BT18 9DA
+154,LORNE,Cultra Rail Halt,0.76,Dr. GOLDRING & PARTNERS             ,2.84,BT18 9DA
+155,GUINCHO,Seahill Rail Halt,0.49,Dr. GOLDRING & PARTNERS             ,5.06,BT18 9DA
+156,AMPERTAINE HOUSE (UPPERLANDS),Magherafelt Bus Station,14.06,Dr. SHAW & PARTNERS                 ,4.66,BT46 5EA
+157,ROCKWOOD,Magherafelt Bus Station,14.39,Dr. SHAW & PARTNERS                 ,5.25,BT46 5EA
+158,TEMPLEMOYLE (MUFF GLEN),L'Derry Rail Station,8.52,Dr. DOHERTY & PARTNERS              ,2.5,BT47 3AB
+159,THE OAKS,L'Derry Rail Station,7.87,Dr. GALLAGHER & PARTNERS            ,5.89,BT47 4AB
+160,PELLIPAR,Limavady Bus Station,13.19,Dr. KYLE & PARTNER                  ,1.74,BT47 4RS
+161,ARDMORE,L'Derry Rail Station,4.41,Dr. MCNEILL & PARTNERS              ,4.33,BT47 6AH
+162,ASHBROOK,L'Derry Rail Station,3.2,Dr. MCNEILL & PARTNERS              ,3.13,BT47 6AH
+163,BEECH HILL (SKIPTON HALL),L'Derry Rail Station,3.81,Dr. MCNEILL & PARTNERS              ,3.73,BT47 6AH
+164,FINNEBROGUE HOUSE,Downpatrick Bus Station,3.39,Dr. BOYLE & PARTNERS                ,3.26,BT47 6AH
+165,CROM CASTLE,Enniskillen Bus Station,23.36,Dr. DOLAN & PARTNERS                ,10.22,BT47 6AH
+166,BELLE ISLE,Enniskillen Bus Station,10.09,Dr. DOLAN & PARTNERS                ,7.51,BT47 6AH
+167,MANOR WATERHOUSE,Enniskillen Bus Station,18.97,Dr. DOLAN & PARTNERS                ,3.48,BT47 6AH
+168,DRESTERNAN CASTLE,Enniskillen Bus Station,18.51,Dr. DOLAN & PARTNERS                ,9.24,BT47 6AH
+169,KNOCKBALLYMORE,Enniskillen Bus Station,29.89,Dr. DOLAN & PARTNERS                ,14.08,BT47 6AH
+170,SEA PARK (SEAPARK) HOUSE,Trooperslane Rail Halt,1.11,Dr. KERNOHAN & PARTNERS             ,1.41,BT38 8TP
+171,CASTLE DOBBS,Whitehead Rail Halt,3.22,Dr. GORMAN & PARTNERS               ,3.01,BT38 9TG
+172,RED HALL,Ballycarry Rail Halt,1.45,Dr. GORMAN & PARTNERS               ,3.03,BT38 9TG
+173,CASTLE UPTON,Antrim Rail Station,7.72,Dr. HUEY & PARTNERS                 ,0.89,BT39 0AZ
+174,LOUGHANMORE,Antrim Rail Station,5.83,Dr. HUEY & PARTNERS                 ,2.04,BT39 0AZ
+175,FISHERWICK,Ballyclare Bus Station,2.85,Dr. RAFFERTY & PARTNERS             ,2.79,BT39 9HL
+176,DRUMNADARRAGH HOUSE,Ballyclare Bus Station,4.55,Dr. RAFFERTY & PARTNERS             ,3.88,BT39 9HL
+177,HOLESTONE HOUSE,Ballyclare Bus Station,4.46,Dr. RAFFERTY & PARTNERS             ,4.26,BT39 9HL
+178,THE OAKS,L'Derry Rail Station,7.87,Dr. GALLAGHER & PARTNERS            ,5.89,BT4 1NS
+179,CARNFUNNOCK COUNTRY PARK,Larne Rail Station,4.85,Dr. BLACK & PARTNERS                ,4.38,BT40 1PB
+180,GLENARM CASTLE,Larne Bus Station,13.96,Dr. BLACK & PARTNERS                ,13.5,BT40 1PB
+181,KILWAUGHTER CASTLE,Larne Bus Station,4.41,Dr. BLACK & PARTNERS                ,4.59,BT40 1PB
+182,CAIRNDHU,Larne Rail Station,5.2,Dr. BLACK & PARTNERS                ,4.74,BT40 1PB
+183,MAGHERAMORNE (BALLYLIG),Magheramorne Rail Halt,0.85,Dr. KIRK & PARTNERS                 ,5.02,BT40 1XH
+184,DRUMALIS,Larne Rail Station,0.59,Dr. KIRK & PARTNERS                 ,0.53,BT40 1XH
+185,CHAINE PARK,Larne Rail Station,1.15,Dr. KIRK & PARTNERS                 ,0.87,BT40 1XH
+186,CASTLEWELLAN CASTLE,Newcastle Bus Station,7.35,Dr. LUTTON & PARTNER                ,5.27,BT31 9TU
+187,BALLYWARD LODGE,Newcastle Bus Station,12.81,Dr. LUTTON & PARTNER                ,1.04,BT31 9TU
+188,BROOKFIELD HOUSE,Banbridge Bus Station,1.3,Dr. MCCLOSKEY & PARTNERS            ,0.85,BT32 3GN
+189,LOUGHBRICKLAND HOUSE,Scarva Rail Halt,4.01,Dr. MULLAN & PARTNERS               ,0.54,BT32 3NH
+190,SCARVA (SCARVAGH) HOUSE,Scarva Rail Halt,1.39,Dr. MULLAN & PARTNERS               ,3.38,BT32 3NH
+191,DROMANTINE HOUSE,Poyntzpass Rail Halt,4.24,Dr. CUPPLES & PARTNERS              ,6.84,BT32 3NQ
+192,LISBURN CASTLE GARDENS,Lisburn Bus Station,0.45,Dr. CUPPLES & PARTNERS              ,0.7,BT32 3NQ
+193,WALLACE PARK,Lisburn Rail Station,0.45,Dr. CUPPLES & PARTNERS              ,1.15,BT32 3NQ
+194,DRUMBANAGHER,Poyntzpass Rail Halt,2.9,Dr. CUPPLES & PARTNERS              ,7.42,BT32 3NQ
+195,BROOKHILL,Ballinderry Rail Halt,4.42,Dr. CUPPLES & PARTNERS              ,6.69,BT32 3NQ
+196,SPRINGFIELD,Knockmore Rail Halt,3.46,Dr. CUPPLES & PARTNERS              ,5.01,BT32 3NQ
+197,TOLLYMORE PARK,Newcastle Bus Station,3.84,Dr. HYLAND & PARTNER                ,3.54,BT33 0DN
+198,MONTALTO HOUSE,Downpatrick Bus Station,13.88,Dr. SANDS & PARTNERS                ,0.93,BT24 8AY
+199,GILL HALL,Moira Rail Halt,8.49,Dr. BEATTY & PARTNERS               ,3.16,BT25 1NB
+200,HILLSBOROUGH CASTLE,Knockmore Rail Halt,6.65,Dr. HALL & PARTNERS                 ,1.34,BT26 6AW
+201,LARCHFIELD,Lisburn Bus Station,6.89,Dr. HALL & PARTNERS                 ,6.3,BT26 6AW
+202,KILWARLIN MORAVIAN CHURCH,Moira Rail Halt,5.97,Dr. HALL & PARTNERS                 ,3.43,BT26 6AW
+203,DROMANTINE HOUSE,Poyntzpass Rail Halt,4.24,Dr. CUPPLES & PARTNERS              ,6.84,BT28 1JP
+204,LISBURN CASTLE GARDENS,Lisburn Bus Station,0.45,Dr. CUPPLES & PARTNERS              ,0.7,BT28 1JP
+205,WALLACE PARK,Lisburn Rail Station,0.45,Dr. CUPPLES & PARTNERS              ,1.15,BT28 1JP
+206,DRUMBANAGHER,Poyntzpass Rail Halt,2.9,Dr. CUPPLES & PARTNERS              ,7.42,BT28 1JP
+207,BROOKHILL,Ballinderry Rail Halt,4.42,Dr. CUPPLES & PARTNERS              ,6.69,BT28 1JP
+208,SPRINGFIELD,Knockmore Rail Halt,3.46,Dr. CUPPLES & PARTNERS              ,5.01,BT28 1JP
+209,MANOR HOUSE (RATHLIN),Portrush Rail Station,30.94,Dr. O'KANE & PARTNERS               ,11.17,BT28 1JP
+210,MAGHERINTEMPLE,Ballymoney Rail Station,23.99,Dr. O'KANE & PARTNERS               ,3.52,BT28 1JP
+211,ROSTREVOR HOUSE,Newry Bus Station,12.05,Dr. RYAN & PARTNERS                 ,3.36,BT28 1JP
+212,NARROW WATER CASTLE,Newry Bus Station,7.55,Dr. RYAN & PARTNERS                 ,2.57,BT28 1JP
+213,GREEN PARK,Newry Bus Station,11.37,Dr. RYAN & PARTNERS                 ,2.86,BT28 1JP
+214,"KILBRONEY, THE LODGE (GLENMORE)",Newry Bus Station,12.91,Dr. RYAN & PARTNERS                 ,3.85,BT28 1JP
+215,BALLYEDMOND (FORT HAMILTON),Newry Bus Station,16.81,Dr. BINGHAM & PARTNERS              ,7.02,BT34 3HS
+216,WARRENPOINT PARK,Newry Bus Station,10.25,Dr. BINGHAM & PARTNERS              ,0.14,BT34 3HS
+217,ROSTREVOR HOUSE,Newry Bus Station,12.05,Dr. RYAN & PARTNERS                 ,3.36,BT34 3JD
+218,NARROW WATER CASTLE,Newry Bus Station,7.55,Dr. RYAN & PARTNERS                 ,2.57,BT34 3JD
+219,GREEN PARK,Newry Bus Station,11.37,Dr. RYAN & PARTNERS                 ,2.86,BT34 3JD
+220,"KILBRONEY, THE LODGE (GLENMORE)",Newry Bus Station,12.91,Dr. RYAN & PARTNERS                 ,3.85,BT34 3JD
+221,MOURNE PARK,Newcastle Bus Station,18.24,Dr. POOTS & PARTNERS                ,3.89,BT34 4DN
+222,BROOKE PARK,L'Derry Bus Station,0.76,Dr. DOHERTY & PARTNER               ,0.36,BT48 7ER
+223,ST. COLUMBS,L'Derry Bus Station,0.8,Dr. DURAND & PARTNERS               ,0.76,BT48 7NN
+224,ABERFOYLE,L'Derry Bus Station,0.76,Dr. DURAND & PARTNERS               ,0.14,BT48 7NN
+225,BOOM HALL,L'Derry Bus Station,3.12,Dr. DEANE & PARTNER                 ,1.21,BT48 8NL
+226,ENAGH HOUSE,L'Derry Bus Station,3.98,Dr. DEANE & PARTNER                 ,2.85,BT48 8NL
+227,BROOK HALL,L'Derry Bus Station,3.96,Dr. DEANE & PARTNER                 ,1.67,BT48 8NL
+228,GLENGALLIAGH HALL,L'Derry Bus Station,4.43,Dr. DEANE & PARTNER                 ,2.23,BT48 8NL
+229,THORNHILL,L'Derry Bus Station,4.99,Dr. DEANE & PARTNER                 ,2.61,BT48 8NL
+230,BALLYARNET,L'Derry Bus Station,4.87,Dr. DEANE & PARTNER                 ,1.75,BT48 8NL
+231,CARNFUNNOCK COUNTRY PARK,Larne Rail Station,4.85,Dr. BLACK & PARTNERS                ,4.38,BT48 9DN
+232,GLENARM CASTLE,Larne Bus Station,13.96,Dr. BLACK & PARTNERS                ,13.5,BT48 9DN
+233,KILWAUGHTER CASTLE,Larne Bus Station,4.41,Dr. BLACK & PARTNERS                ,4.59,BT48 9DN
+234,CAIRNDHU,Larne Rail Station,5.2,Dr. BLACK & PARTNERS                ,4.74,BT48 9DN
+235,DRENAGH,Limavady Bus Station,1.97,Dr. OLLERENSHAW & PARTNERS          ,1.56,BT49 0TE
+236,DOG LEAP,Limavady Bus Station,3.25,Dr. OLLERENSHAW & PARTNERS          ,2.01,BT49 0TE
+237,ROE VALLEY PARK,Limavady Bus Station,2.86,Dr. OLLERENSHAW & PARTNERS          ,1.93,BT49 0TE
+238,ANTRIM CASTLE GARDENS,Antrim Bus Station,0.78,Dr. THOMPSON & PARTNERS             ,0.68,BT5 4FT
+239,THE STEEPLE,Antrim Rail Station,0.72,Dr. THOMPSON & PARTNERS             ,0.69,BT5 4FT
+240,BROOKFIELD HOUSE,Banbridge Bus Station,1.3,Dr. MCCLOSKEY & PARTNERS            ,0.85,BT5 4NH
+241,BLESSINGBOURNE,Enniskillen Bus Station,22.09,Dr. ELLIOTT & PARTNER               ,1.11,BT75 0ND
+242,AUGHENTAINE CASTLE,Omagh Bus Station,21.25,Dr. ELLIOTT & PARTNER               ,4.25,BT75 0ND
+243,CLOGHER PARK,Omagh Bus Station,23.2,Dr. ELLIOTT & PARTNER               ,10.22,BT75 0ND
+244,DAISY HILL,Omagh Bus Station,22.55,Dr. ELLIOTT & PARTNER               ,7.88,BT75 0ND
+245,FARDROSS,Omagh Bus Station,24.29,Dr. ELLIOTT & PARTNER               ,7.99,BT75 0ND
+246,KILLYFADDY MANOR,Omagh Bus Station,20.15,Dr. ELLIOTT & PARTNER               ,9.99,BT75 0ND
+247,BARONS COURT,Omagh Bus Station,13.55,Dr. RITCHIE & PARTNER               ,9.21,BT78 4SB
+248,MANOR HOUSE (RATHLIN),Portrush Rail Station,30.94,Dr. O'KANE & PARTNERS               ,11.17,BT54 6BA
+249,MAGHERINTEMPLE,Ballymoney Rail Station,23.99,Dr. O'KANE & PARTNERS               ,3.52,BT54 6BA
+250,CROMORE,Portrush Dhu Varren Rail Halt,3.07,Dr. TURKINGTON & PARTNERS           ,1.1,BT55 7SW
+251,BALLYLOUGH HOUSE,Portrush Rail Station,9.6,Dr. JONES & PARTNERS                ,3.49,BT57 8QP
+252,DUNDARAVE,Portrush Rail Station,8.91,Dr. JONES & PARTNERS                ,1.13,BT57 8QP
+253,DUNLUCE CASTLE,Portrush Rail Station,4.76,Dr. JONES & PARTNERS                ,3.46,BT57 8QP
+254,BEARDIVILLE,Portrush Dhu Varren Rail Halt,5.5,Dr. JONES & PARTNERS                ,4.95,BT57 8QP
+255,BALLYHIBISTOCK HOUSE,Ballymoney Rail Station,9.17,Dr. JONES & PARTNERS                ,6.42,BT57 8QP
+256,BALLYDIVITY,Portrush Rail Station,10.65,Dr. JONES & PARTNERS                ,4.78,BT57 8QP
+257,GOSFORD CASTLE,Poyntzpass Rail Halt,9.41,Dr. WEBSTER & PARTNERS              ,1.2,BT60 1TA
+258,LISNAMALLARD (MILLBANK) HOUSE,Omagh Bus Station,0.66,Dr. QUINN & PARTNERS                ,3.14,BT79 0NR
+259,BELLARENA,Bellarena Rail Halt,1.54,Dr. QUINN & PARTNERS                ,7.38,BT79 0NR
+260,BALLYMOYER,Newry Rail Station,10.37,Dr. QUINN & PARTNERS                ,3.91,BT79 0NR
+261,CREEVENAGH,Omagh Bus Station,1.12,Dr. QUINN & PARTNERS                ,2.43,BT79 0NR
+262,EDENFEL,Omagh Bus Station,1.51,Dr. QUINN & PARTNERS                ,2.07,BT79 0NR
+263,ARDNARGLE,Limavady Bus Station,0.93,Dr. QUINN & PARTNERS                ,1.99,BT79 0NR
+264,WALWORTH,Limavady Bus Station,4.85,Dr. QUINN & PARTNERS                ,5.46,BT79 0NR
+265,PARKANAUR,Dungannon Bus Station,5.7,Dr. CARSON & PARTNERS               ,5.85,BT70 1HX
+266,DRUM MANOR (OAKLANDS),Cookstown Bus Station,5.43,Dr. JOHNSTON & PARTNERS             ,4.4,BT71 4AU
+267,LISSAN,Cookstown Bus Station,4.16,Dr. JOHNSTON & PARTNERS             ,3.7,BT71 4AU
+268,HILL MOUNT,Ballymena Bus Station,6.8,Dr. JOHNSTON & PARTNERS             ,1.74,BT71 4AU
+269,BENVARDEN,Ballymoney Rail Station,7.67,Dr. JOHNSTON & PARTNERS             ,6.96,BT71 4AU
+270,CRAIGDUN,Ballymena Bus Station,7.62,Dr. JOHNSTON & PARTNERS             ,2.66,BT71 4AU
+271,CONEY ISLAND,Portadown Rail Station,12.36,Dr. MITCHEL & PARTNER               ,10.0,BT71 4LP
+272,DRUMCAIRNE HOUSE,Cookstown Bus Station,10.22,Dr. FITZSIMONS & PARTNERS           ,2.45,BT71 5HY
+273,STUART (STEWART) HALL,Cookstown Bus Station,10.17,Dr. FITZSIMONS & PARTNERS           ,3.88,BT71 5HY
+274,"THE MANOR HOUSE, BENBURB",Armagh Bus Station,8.92,Dr. CAMPBELL & PARTNER              ,5.34,BT71 7SL
+275,ARDRESS,Portadown Rail Station,9.54,Dr. CAMPBELL & PARTNER              ,6.47,BT71 7SL
+276,THE ARGORY,Dungannon Bus Station,8.98,Dr. CAMPBELL & PARTNER              ,2.9,BT71 7SL
+277,SUMMER ISLAND,Armagh Bus Station,9.08,Dr. CAMPBELL & PARTNER              ,3.3,BT71 7SL
+278,LISGOOLE ABBEY,Enniskillen Bus Station,2.27,Dr. MAGUIRE & PARTNERS              ,2.93,BT74 6NN
+279,CASTLE COOLE,Enniskillen Bus Station,2.49,Dr. MAGUIRE & PARTNERS              ,2.51,BT74 6NN
+280,FORT HILL GARDENS,Enniskillen Bus Station,0.53,Dr. MAGUIRE & PARTNERS              ,0.5,BT74 6NN
+281,ELY LODGE,Enniskillen Bus Station,8.46,Dr. MAGUIRE & PARTNERS              ,8.14,BT74 6NN
+282,CASTLETOWN MANOR / MONEA,Enniskillen Bus Station,8.94,Dr. MAGUIRE & PARTNERS              ,8.83,BT74 6NN
+283,CLIFTON HOUSE,Belfast - Laganside Bus Station,0.89,Dr. MAGUIRE & PARTNERS              ,0.25,BT74 6NN
+284,BELLEVUE,Enniskillen Bus Station,3.35,Dr. MAGUIRE & PARTNERS              ,3.73,BT74 6NN
+285,CROCKNACREEVE,Enniskillen Bus Station,7.45,Dr. MAGUIRE & PARTNERS              ,6.75,BT74 6NN
+286,KILLYREAGH,Enniskillen Bus Station,4.18,Dr. MAGUIRE & PARTNERS              ,4.19,BT74 6NN
+287,MOYLE HOUSE,Omagh Bus Station,13.67,Dr. MCAULEY & PARTNER               ,8.61,BT79 8DL
+288,BELTRIM CASTLE,Omagh Bus Station,13.93,Dr. MCAULEY & PARTNER               ,5.1,BT79 8DL
+289,POMEROY HOUSE,Cookstown Bus Station,12.07,Dr. CORRY & PARTNERS                ,8.87,BT79 9JR
+290,TERMON (ATHENRY),Omagh Bus Station,17.56,Dr. CORRY & PARTNERS                ,1.1,BT79 9JR
+291,NECARNE CASTLE (CASTLE IRVINE),Enniskillen Bus Station,13.05,Dr. HAIGNEY & PARTNERS              ,1.23,BT8 6GR
+292,CASTLE ARCHDALE,Enniskillen Bus Station,15.89,Dr. HAIGNEY & PARTNERS              ,5.77,BT8 6GR
+293,PURDYSBURN HOUSE,Belfast - Balmoral Rail Halt,4.34,Dr. HAIGNEY & PARTNERS              ,2.57,BT8 6GR
+294,BELVOIR (FOREST PARK),Belfast - Balmoral Rail Halt,2.79,Dr. HAIGNEY & PARTNERS              ,1.78,BT8 6GR
+295,CORKHILL or CORKILL,Enniskillen Bus Station,12.26,Dr. HAIGNEY & PARTNERS              ,6.4,BT8 6GR
+296,THE WATERFOOT,Enniskillen Bus Station,25.5,Dr. HAIGNEY & PARTNERS              ,16.16,BT8 6GR
+297,JAMESTOWN (MAGHERACROSS),Enniskillen Bus Station,10.47,Dr. HAIGNEY & PARTNERS              ,6.38,BT8 6GR
+298,DRUM MANOR (OAKLANDS),Cookstown Bus Station,5.43,Dr. JOHNSTON & PARTNERS             ,4.4,BT80 8BN
+299,LISSAN,Cookstown Bus Station,4.16,Dr. JOHNSTON & PARTNERS             ,3.7,BT80 8BN
+300,HILL MOUNT,Ballymena Bus Station,6.8,Dr. JOHNSTON & PARTNERS             ,1.74,BT80 8BN
+301,BENVARDEN,Ballymoney Rail Station,7.67,Dr. JOHNSTON & PARTNERS             ,6.96,BT80 8BN
+302,CRAIGDUN,Ballymena Bus Station,7.62,Dr. JOHNSTON & PARTNERS             ,2.66,BT80 8BN
+303,TULLYLAGAN MANOR,Cookstown Bus Station,5.96,Dr. MCKEEVER & PARTNERS             ,5.59,BT80 8PE
+304,LOUGHRY,Cookstown Bus Station,3.63,Dr. MCKEEVER & PARTNERS             ,3.31,BT80 8PE
+305,KILLYMOON CASTLE,Cookstown Bus Station,2.48,Dr. MCKEEVER & PARTNERS             ,2.32,BT80 8PE
+306,"AUGHNACLOY (RAVELLEA), THE THISTLE",Dungannon Bus Station,16.89,Dr. POTTER                          ,1.02,BT80 8PE
+307,FAVOUR ROYAL,Dungannon Bus Station,19.99,Dr. POTTER                          ,4.92,BT80 8PE
+308,ELMFIELD,Scarva Rail Halt,6.02,Dr. MAGOWAN & PARTNERS              ,1.67,BT63 6JS
+309,LAWRENCETOWN HOUSE,Banbridge Bus Station,4.44,Dr. MAGOWAN & PARTNERS              ,2.86,BT63 6JS
+310,WOOD BANK,Scarva Rail Halt,5.7,Dr. MAGOWAN & PARTNERS              ,1.55,BT63 6JS
+311,MOYALLON HOUSE,Portadown Rail Station,4.87,Dr. MAGOWAN & PARTNERS              ,3.22,BT63 6JS
+312,GILFORD CASTLE,Scarva Rail Halt,4.17,Dr. MAGOWAN & PARTNERS              ,0.7,BT63 6JS
+313,FAIRVIEW HOUSE - Tannaghmore Gardens,Craigavon Bus Station,1.77,Dr. WILKINSON & PARTNERS            ,1.95,BT65 5BE
+314,RAUGHLAN (ROCKLAND),Craigavon Bus Station,4.43,Dr. MCAULEY & PARTNERS              ,4.69,BT66 6JB
+315,WARINGSTOWN HOUSE,Lurgan Rail Station,4.69,Dr. HUNTER & PARTNER                ,3.09,BT66 7LR
+316,STRAW HILL (DONAGHCLONEY),Lurgan Rail Station,7.02,Dr. HUNTER & PARTNER                ,0.39,BT66 7LR
+317,BROWNLOW HOUSE (LURGAN PARK),Lurgan Rail Station,1.13,Dr. FITZPATRICK & PARTNERS          ,0.55,BT66 8BA
+318,MOIRA CASTLE DEMESNE,Moira Rail Halt,1.23,Dr. SPENCE & PARTNERS               ,0.51,BT67 0LQ
+319,BROOKFIELD HOUSE,Banbridge Bus Station,1.3,Dr. MCCLOSKEY & PARTNERS            ,0.85,BT67 9BW
+320,"AUGHNACLOY (RAVELLEA), THE THISTLE",Dungannon Bus Station,16.89,Dr. POTTER                          ,1.02,BT69 6AF
+321,FAVOUR ROYAL,Dungannon Bus Station,19.99,Dr. POTTER                          ,4.92,BT69 6AF
+322,STRANMILLIS HOUSE (COLLEGE),Belfast - Adelaide Rail Halt,1.36,Dr. MCCARTNEY & PARTNERS            ,1.25,BT7 1NP
+323,GROUP OF CONTIGUOUS SITES,Belfast - Adelaide Rail Halt,1.3,Dr. MCCARTNEY & PARTNERS            ,0.87,BT7 1NP
+324,BOTANIC GARDENS PARK,Belfast - Botanic Rail Station,0.8,Dr. MCCARTNEY & PARTNERS            ,0.48,BT7 1NP
+325,ORMEAU PARK,Belfast - Central Rail Station,1.04,Dr. DIAMOND & PARTNERS              ,0.46,BT7 2EB
+326,STORMONT CASTLE AND PARLIAMENT BUILDINGS,Belfast - Sydenham Rail Halt,3.46,Dr. MONCRIEFF & PARTNERS            ,1.49,BT5 7BP
+327,ANDERSON PARK,Coleraine Bus & Rail,0.52,Dr. MAXWELL & PARTNERS              ,0.69,BT51 3HP
+328,GUY WILSON DAFFODIL GARDEN,Coleraine University Rail Halt,0.6,Dr. MAXWELL & PARTNERS              ,1.4,BT51 3HP
+329,DOWNHILL,Castlerock Rail Halt,1.3,Dr. WHITE                           ,1.24,BT51 4TW
+330,BOVAGH HOUSE,Ballymoney Rail Station,8.55,Dr. CONNOR & PARTNERS               ,6.01,BT51 5AE
+331,MOORE LODGE,Ballymoney Rail Station,9.79,Dr. MCCORMACK & PARTNERS            ,3.29,BT51 5QP
+332,HOLY HILL or HOLLY HILL HOUSE,L'Derry Rail Station,17.56,Dr. O'FLAHERTY & PARTNERS           ,4.32,BT82 8AS
+333,GROVELANDS GARDEN (MUSGRAVE PARK),Belfast - Balmoral Rail Halt,0.16,Dr. HUGHES                          ,0.56,BT9 6GR
+334,CRANMORE,Belfast - Adelaide Rail Halt,1.09,Dr. HUGHES                          ,0.85,BT9 6GR
+335,DRUMGLASS,Belfast - Adelaide Rail Halt,0.49,Dr. HUGHES                          ,0.62,BT9 6GR
+336,CROM CASTLE,Enniskillen Bus Station,23.36,Dr. DOLAN & PARTNERS                ,10.22,BT92 0GT
+337,BELLE ISLE,Enniskillen Bus Station,10.09,Dr. DOLAN & PARTNERS                ,7.51,BT92 0GT
+338,MANOR WATERHOUSE,Enniskillen Bus Station,18.97,Dr. DOLAN & PARTNERS                ,3.48,BT92 0GT
+339,DRESTERNAN CASTLE,Enniskillen Bus Station,18.51,Dr. DOLAN & PARTNERS                ,9.24,BT92 0GT
+340,KNOCKBALLYMORE,Enniskillen Bus Station,29.89,Dr. DOLAN & PARTNERS                ,14.08,BT92 0GT
+341,FLORENCE COURT,Enniskillen Bus Station,11.94,Dr. CUNNINGHAM & PARTNERS           ,2.74,BT92 1BZ
+342,GARDENHILL,Enniskillen Bus Station,14.0,Dr. CUNNINGHAM & PARTNERS           ,10.33,BT92 1BZ
+343,CASTLE CALDWELL,Enniskillen Bus Station,26.79,Dr. HERDMAN & PARTNERS              ,8.07,BT93 3FY
+344,NECARNE CASTLE (CASTLE IRVINE),Enniskillen Bus Station,13.05,Dr. HAIGNEY & PARTNERS              ,1.23,BT94 1EH
+345,CASTLE ARCHDALE,Enniskillen Bus Station,15.89,Dr. HAIGNEY & PARTNERS              ,5.77,BT94 1EH
+346,PURDYSBURN HOUSE,Belfast - Balmoral Rail Halt,4.34,Dr. HAIGNEY & PARTNERS              ,2.57,BT94 1EH
+347,BELVOIR (FOREST PARK),Belfast - Balmoral Rail Halt,2.79,Dr. HAIGNEY & PARTNERS              ,1.78,BT94 1EH
+348,CORKHILL or CORKILL,Enniskillen Bus Station,12.26,Dr. HAIGNEY & PARTNERS              ,6.4,BT94 1EH
+349,THE WATERFOOT,Enniskillen Bus Station,25.5,Dr. HAIGNEY & PARTNERS              ,16.16,BT94 1EH
+350,JAMESTOWN (MAGHERACROSS),Enniskillen Bus Station,10.47,Dr. HAIGNEY & PARTNERS              ,6.38,BT94 1EH
+351,SPRINGHILL,Cookstown Bus Station,7.01,Dr. HEARNSHAW & PARTNERS            ,1.5,BT45 7LJ
+352,COLEBROOK DEMESNE,Enniskillen Bus Station,17.42,BROOKEBOROUGH & TEMPO PCS,4.39,BT94 4JG
+353,TEMPO MANOR,Enniskillen Bus Station,13.04,BROOKEBOROUGH & TEMPO PCS,7.94,BT94 4JG
+354,SNOWHILL,Enniskillen Bus Station,9.18,BROOKEBOROUGH & TEMPO PCS,6.46,BT94 4JG
+355,BELFAST CASTLE,Belfast - Yorkgate Rail Station,3.8,Dr. HARKIN & PARTNERS               ,1.52,BT15 5GF
