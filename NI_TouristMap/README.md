@@ -27,11 +27,11 @@ In Anaconda Navigator, you can launch Jupyter Lab and navigate to the local fold
 Alternatively, from the command line, start by opening Anaconda Prompt and navigating to the folder where you've cloned the repository. Activate your newly-created environment with 
 ``` conda activate egm722_serenee```
  Then, execute the command 
- ```jupyter lab```. 
+ ```jupyter-lab```. 
  This action should open a web browser window, providing an overview of the current folder.
 
-## 5. Next steps
-Repository Structure:
+## 5. Repository Structure
+
 
 * NI_TouristMap.ipynb:This file contains the main code for creating a tourist map. It serves as the primary navigation point for executing the code related to the creation of the tourist map.
 * Integrated_Data_Analysis.ipynb/.py:This file demonstrates how to integrate downloaded data and perform analysis on it. It provides insights into the process of combining different datasets and conducting analysis tasks, available both in Jupyter Notebook (.ipynb) and Python script (.py) formats.
