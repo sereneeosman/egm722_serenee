@@ -11,11 +11,11 @@ Northern Ireland Tourist Map with Folium
 
    <div style="display: flex; justify-content: space-between;">
        <div>
-           <a href="https://github.com/sereneeosman/egm722_serenee" class="github-button" aria-label="Star sereneeosman/egm722_serenee on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Star EGM722</a>
+           <a href="https://github.com/sereneeosman/egm722_serenee" class="github-button" aria-label="Star sereneeosman/egm722_serenee on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link EGM722</a>
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
        <div>
-           <a href="https://github.com/sereneeosman/sereneeosman_doc" class="github-button" aria-label="Star sereneeosman/sereneeosman_doc on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Star Documentation</a>
+           <a href="https://github.com/sereneeosman/sereneeosman_doc" class="github-button" aria-label="Star sereneeosman/sereneeosman_doc on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation</a>
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
        <div>
