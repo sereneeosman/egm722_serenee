@@ -40,6 +40,7 @@ Alternatively, from the command line, start by opening Anaconda Prompt and navig
 * ``NI_TouristMap.ipynb`` :This file contains the main code for creating a tourist map. It serves as the primary navigation point for executing the code related to the creation of the tourist map.
 * ``Integrated_Data_Analysis.ipynb/.py`` :This file demonstrates how to integrate downloaded data and perform analysis on it. It provides insights into the process of combining different datasets and conducting analysis tasks, available both in Jupyter Notebook (.ipynb) and Python script (.py) formats.
 * ``NI_Tourist_Map_doc.rst`` :  This file contain the complete Documentation of this code.
+* ``NI_TouristMap_numpy.py`` : document containing documentation formatted in NumPy docstring style.
 
 
 

@@ -18,13 +18,8 @@ Northern Ireland Tourist Map with Folium
            <a href="https://github.com/sereneeosman/sereneeosman_doc" class="github-button" aria-label="Star sereneeosman/sereneeosman_doc on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation</a>
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
-       <div>
-           <a href="path/to/your/document.pdf" class="pdf-button" aria-label="Download PDF">Download PDF</a>
-       </div>
    </div>
 
-
-:download:`Download PDF <_static/pdf/document_name.pdf>`
 
 
 
@@ -151,6 +146,7 @@ This action should open a web browser window, providing an overview of the curre
 * ``NI_TouristMap.ipynb`` :This file contains the main code for creating a tourist map. It serves as the primary navigation point for executing the code related to the creation of the tourist map.
 * ``Integrated_Data_Analysis.ipynb/.py`` :This file demonstrates how to integrate downloaded data and perform analysis on it. It provides insights into the process of combining different datasets and conducting analysis tasks, available both in Jupyter Notebook (.ipynb) and Python script (.py) formats.
 * ``NI_Tourist_Map_doc.rst`` :  This file contain the complete Documentation of this code.
+* ``NI_TouristMap_numpy.py`` : document containing documentation formatted in NumPy docstring style.
 
 Getting Started
 ----------------
@@ -245,7 +241,7 @@ Display the base folium map
 
 As depicted, a color legend is incorporated at the bottom right-hand corner of the map, providing information on the colors assigned to each polygon. Additionally, a scale is situated at the bottom left-hand corner of the map. The country outline of Northern Ireland is displayed with black border lines.You can zoom in or out to examine finer details, including those on the [OpenStreetMap](https://www.openstreetmap.org/#map=5/35.588/134.380) base layer.
 
-**Convert DataFrame to GeoDataFrame**
+**Convert DataFrame to GeoDataFrame, Display Popups and Plotting Geographic Data (Tourist Sites)**
 
 Convert csv data to vector data
 
@@ -351,6 +347,8 @@ Then displays the first few rows of the resulting GeoDataFrame ("visit_all").
     # Re-filtered the merge file.
     visit_all = visit_merge[["Tourist Sites", "Near_T_Hub","Trans_Dist","Near_GP", "GP_Dist","PostCode","geometry","CountyName"]]
     visit_all.head()
+
+Display Popups and Plotting Geographic Data (Tourist Sites)
 
 Next we will display the GeoDataFrame on the folium map and popup the attribute information.
 
