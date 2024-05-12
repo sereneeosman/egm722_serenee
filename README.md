@@ -29,10 +29,15 @@ Setting up the conda environment might take some time, but this process only nee
 ### 4. Launch Jupyter Lab
 In Anaconda Navigator, you can launch Jupyter Lab and navigate to the local folder where this repository is located. Ensure that your egm722_serenee environment is activated.
 Alternatively, from the command line, start by opening Anaconda Prompt and navigating to the folder where you've cloned the repository. Activate your newly-created environment with 
-``` conda activate egm722_serenee```
- Then, execute the command 
- ```jupyter-lab```. 
- This action should open a web browser window, providing an overview of the current folder.
+
+``` 
+conda activate egm722_serenee
+```
+Then, execute the command 
+```
+jupyter-lab
+``` 
+This action should open a web browser window, providing an overview of the current folder.
 
 ### 5. Repository Structure
 
