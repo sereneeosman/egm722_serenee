@@ -15,7 +15,7 @@ Northern Ireland Tourist Map with Folium
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
        <div>
-           <a href="https://github.com/sereneeosman/egm722_serenee/blob/main/NI_TouristMap/NI_Tourist_Map_doc.rst" class="github-button" aria-label="Star sereneeosman/egm722_serenee on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation</a>
+           <a href="https://github.com/sereneeosman/sereneeosman_doc" class="github-button" aria-label="Star sereneeosman/sereneeosman_doc on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation (Optional)</a>
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
    </div>
