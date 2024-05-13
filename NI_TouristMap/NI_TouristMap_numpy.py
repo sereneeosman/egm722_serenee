@@ -6,7 +6,7 @@
 
 # Repository : [sereneeosman/egm722_serenee](https://github.com/sereneeosman/egm722_serenee)
 
-# Numpy(Sphinx) Documentation How-To-Do
+# Numpy(Sphinx) Documentation 
 # https://github.com/sereneeosman/egm722_serenee/blob/main/NI_TouristMap/NI_Tourist_Map_doc.rst
 
 def create_ni_tourist_map():
