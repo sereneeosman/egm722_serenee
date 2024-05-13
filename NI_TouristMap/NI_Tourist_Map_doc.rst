@@ -15,7 +15,7 @@ Northern Ireland Tourist Map with Folium
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
        <div>
-           <a href="https://github.com/sereneeosman/sereneeosman_doc" class="github-button" aria-label="Star sereneeosman/sereneeosman_doc on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation</a>
+           <a href="https://github.com/sereneeosman/egm722_serenee/blob/main/NI_TouristMap/NI_Tourist_Map_doc.rst" class="github-button" aria-label="Star sereneeosman/egm722_serenee on GitHub" data-show-count="true" data-count-aria-label="# stars on GitHub">Link Documentation</a>
            <script async defer src="https://buttons.github.io/buttons.js"></script>
        </div>
    </div>
@@ -140,8 +140,23 @@ Then, execute the command
 
 This action should open a web browser window, providing an overview of the current folder.
 
-## 5. Repository Structure
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5. Dependencies
+~~~~~~~~~~~~~~~~
+To run the "Explore Northern Ireland" script, you'll need the following dependencies:
+
+- Python (>=3.9, <=3.12)
+- Folium
+- Pandas
+
+All these dependencies are included in the provided environment.yml file.
+If you need to update to specific versions, simply use the following command using `pip <https://pypi.org/project/pip/>`_:
+
+.. code-block:: python
+    pip install python==3.12.3
+    pip install folium==0.14.0
+
+6. Repository Structure
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * ``NI_TouristMap.ipynb`` :This file contains the main code for creating a tourist map. It serves as the primary navigation point for executing the code related to the creation of the tourist map.
 * ``Integrated_Data_Analysis.ipynb/.py`` :This file demonstrates how to integrate downloaded data and perform analysis on it. It provides insights into the process of combining different datasets and conducting analysis tasks, available both in Jupyter Notebook (.ipynb) and Python script (.py) formats.
